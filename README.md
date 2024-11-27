@@ -2,6 +2,8 @@
 
 Welcome to the **Basic Python Coding Tutorials** repository! 🎉 This repository is designed to help you learn and practice Python programming, starting from the very basics. Whether you're new to programming or revisiting Python fundamentals, this is the perfect place to start.
 
+The files were prepared as a part of coding course in St. Xavier's College, Mumbai.
+
 ## 📖 What You'll Learn
 
 - Python syntax and structure
